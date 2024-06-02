@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.container{
+    text-align: center;
+    margin-left: 27%;
+    width: 440px;
+    border: 2px solid white;
+    margin: auto;
+    
+}
+
+.container h2{
+    font-size: 4rem;
+}
+
+
+.num{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+
+}
+
+.btn button{
+    font-size: 2rem;
+    padding: 2% 3%;
+    background-color: brown;
+    border-radius: 15%;
+    border: none;
+    color: aliceblue;
+    margin-top: 5%;
+}
